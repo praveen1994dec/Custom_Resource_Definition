@@ -7,5 +7,5 @@ spec:
  language: csharp
  os: linux
  instanceSize: small
- environmentType: development
+ environmentType: dev
  replicas: 3
